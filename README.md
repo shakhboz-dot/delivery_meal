@@ -48,6 +48,19 @@ Offline mode
 <a href="https://ibb.co/njqj8nW"><img src="https://i.ibb.co/Xtftk3w/photo-2021-09-13-15-56-32.jpg" alt="photo-2021-09-13-15-56-32" border="0" width="250.0"></a>
 A new Flutter project.
 
+# Used Packages
+
+cupertino_icons: ^1.0.2
+  firebase_core: ^1.6.0
+  firebase_auth: ^3.1.0
+  cloud_firestore: ^2.5.1
+  font_awesome_flutter: ^9.1.0
+  flutter_slidable: ^0.6.0
+  google_fonts: ^2.1.0
+  flutter_zoom_drawer: ^2.1.1
+  provider: ^6.0.0
+  connectivity: ^3.0.6
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
